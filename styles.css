@@ -1,0 +1,18 @@
+@media (max-width: 576px){
+    .input-group {
+       padding-left: 50px;
+       padding-right: 50px;
+    }
+}
+
+@media (min-width: 600px){
+    .input-group {
+        padding-top: 20px;
+        padding-left: 20em;
+        padding-right: 20em;
+    }
+    .content {
+        padding-left: 20em;
+        padding-right: 20em;
+    }
+}
